@@ -1,0 +1,28 @@
+# File build
+/build/
+/out/
+/target/
+/.vscode
+
+# File dependensi
+/.classpath
+/.project
+/.settings/
+/lib/
+
+# File Maven
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/logging.properties
+
+# Gradle
+/.gradle/
+/build.gradle
+/gradle-wrapper.jar
+/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+
+# Log
+*.log
